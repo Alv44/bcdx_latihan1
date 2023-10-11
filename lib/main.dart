@@ -31,6 +31,106 @@ class MyApp extends StatelessWidget {
             ),
           ],
         ),
+        Container(
+          height: 30,
+          width: 500,
+          color: Colors.lightBlue,
+        ),
+        SizedBox(
+          height: 30
+        ),
+        Row(
+          children(
+            Container(
+              height: 30,
+              width: 30,
+              color: Colors.lightBlue,
+            ),
+            SizedBox(
+              width: 10
+            ),
+             Container(
+              height: 30,
+              width: 30,
+              color: Colors.lightBlue,
+            ),
+            SizedBox(
+              width: 10
+            ),
+             Container(
+              height: 30,
+              width: 30,
+              color: Colors.lightBlue,
+            ),
+            SizedBox(
+              width: 10
+            ),
+             Container(
+              height: 30,
+              width: 30,
+              color: Colors.lightBlue,
+            ),
+            SizedBox(
+              width: 10
+            ),
+             Container(
+              height: 30,
+              width: 30,
+              color: Colors.lightBlue,
+            ),
+
+          ),
+
+        ),
+        SizedBox(
+          height: 30
+        ),
+        Row(
+          children(
+            Container(
+              height: 30,
+              width: 30,
+              decoration: BoxDecoration(
+              color: Colors.lightBlue,
+              shape: BoxShape.circle,
+              )
+            ),
+            SizedBox(
+              width: 10
+            ),
+             Container(
+              height: 30,
+              width: 30,
+              color: Colors.lightBlue,
+            ),
+            SizedBox(
+              width: 10
+            ),
+             Container(
+              height: 30,
+              width: 30,
+              color: Colors.lightBlue,
+            ),
+            SizedBox(
+              width: 10
+            ),
+             Container(
+              height: 30,
+              width: 30,
+              color: Colors.lightBlue,
+            ),
+            SizedBox(
+              width: 10
+            ),
+             Container(
+              height: 30,
+              width: 30,
+              color: Colors.lightBlue,
+            ),
+
+          ),
+
+        ),
       ),
     );
   }
